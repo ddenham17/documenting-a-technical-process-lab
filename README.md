@@ -46,10 +46,19 @@ _Italicized Text_
 
 ## Troubleshooting Steps:
 
-# Step 1: Power off the computer and prepare your workspace
-1. Shut down the computer and unplug the power cable. Make sure to discharge any remaining power.
-2. Wear an anti-static wrist strap to ensure your safety. It prevents static discharge from damaged components. ![Anti-Static Wrist Strap](https://m.media-amazon.com/images/I/51TcCqPP0QL._SL1100_.jpg)
-3.
+### Step 1: Power off the computer and prepare your tools
+1. Make sure all the required tools are in hand: screwdriver, wrist strap, memory tester, and new RAM sticks.
+2. Shut down the computer and unplug the power cable. Make sure to discharge any remaining power.
+3. Wear the anti-static wrist strap to ensure your safety. It prevents static discharge from damaged components. 
+
+![Anti-Static Wrist Strap](https://m.media-amazon.com/images/I/51TcCqPP0QL._SL1100_.jpg)
+
+### Step 2: Open the computer case and remove faulty RAM
+1. Open the computer case using the screwdriver and locate the RAM modules on the motherboard.
+
+![Open Computer Case with RAM circled]("C:\Users\denha\Pictures\Screenshot 2025-11-20 210803.jpg")
+
+2. Push down on the clips at each end of the RAM module stick to eject them from the motherboard.
 
 **Replacing a RAM memory module conists of powering off the computer and preparing your workspace along with making sure all power is discharged. Next, open the computer case and push down on the clips at each end of the RAM stick to release the old RAM module. Then after verifying that the new RAM module is compatible and passed the memory tester, push down both ends of the stick until the clips click in place. Finally, close the computer case, power the computer back on, and verify that the new RAM is detected in BIOS.**
 
