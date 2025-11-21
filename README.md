@@ -1,28 +1,4 @@
-# Heading 1
-## Heading 2
-### Heading 3
-
-1. First item
-2. Second item
-3. Third item
-
-- First item
-- Second item
-- Third item
-
-**Bold Text**
-__Bold Text__
-
-*Italicized Text*
-_Italicized Text_
-
-***Italicized Text***
-
-[GitHub Flavored Markdown Guide](https://guides.github.com/features/mastering-markdown/)
-
-![Test image](relative file path or url)
-
-# Replacing RAM Module on a Windows PC
+# Replacing RAM on a Windows PC
 
 **Replacing a RAM memory module is a necessary fix for computers suffering from slow application loading, multitasking, and even crashes or data corruption. This process requires powering off the computer and knowing where the RAM modules are located on the computer's motherboard. A memory tester tool is recommended to verify which RAM module stick is failing and that the stick you're using as the replacement will work.**
 
@@ -60,7 +36,7 @@ _Italicized Text_
 
 2. Push down on the clips at each end of the RAM module sticks to remove them from the motherboard.
 
-![Removing RAM from PC](https://image.coolblue.nl/content/dedd07f66cae9db27b240a92472f8b86)
+![Removing RAM from PC](https://www.build-gaming-computers.com/images/how-to-install-ram-step-by-step-photo-guide.jpg)
 
 ### Step 3: Test the old and new RAM
 1. Plug in the memory tester tool and test each RAM module stick to verify which stick is failing. One of them should fail the test.
@@ -74,7 +50,7 @@ _Italicized Text_
 
 2. Push down on both ends with equal force on the stick until the clips on both sides click.
 
-![Installing RAM on PC](https://image.coolblue.nl/624x351/content/1e481de2e731a99d4e26355098f0892c)
+![Installing RAM on PC](https://static.beebom.com/wp-content/uploads/2023/01/How-to-Install-RAM-on-Motherboard-in-Your-PC.jpg?w=750&quality=75)
 
 ### Step 5: Close the computer case and power on the computer
 1. Close the computer case with your screwdriver, plug in the power cable, and power on the computer.
@@ -87,7 +63,7 @@ _Italicized Text_
 
 4. Alternatively, you can let the computer load Windows and navigate from the start search bar and type "About your PC". It will list the device specifications, including how much RAM is installed.
 
-1[About your PC Windows 11](https://www.avast.com/hs-fs/hubfs/New_Avast_Academy/how_to_check_your_ram_memory_academy_refresh_2/img-02.jpg?width=924&height=518&name=img-02.jpg)
+![About your PC Windows 11](https://www.avast.com/hs-fs/hubfs/New_Avast_Academy/how_to_check_your_ram_memory_academy_refresh_2/img-02.jpg?width=924&height=518&name=img-02.jpg)
 
 ### Step 6: Test the computer's performance
 
