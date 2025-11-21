@@ -31,5 +31,11 @@ _Italicized Text_
 - **DDR5**: DDR5 is the latest generation of Double Data Rate RAM that is capable of higher speeds, bandwidth, and power efficiency compared to previous generations like *DDR4*. It is important to verify if the RAM memory module in use is compatible with the computer's motherboard.
 - **Memory Tester**: A physical tool that is used for checking a computer's RAM for any performance issues that could cause slow performance or crashes. It is a useful tool for identifying which RAM stick is failing and if a RAM stick is working correctly.
 
+## Required Tools:
+- Screwdriver: An appropriate screwdriver (usually a Phillips head) is needed to open and close the computer case.
+- Anti-static wrist strap: This accessory ensures a technician's safety when working on the hardware of a computer.
+- Memory Tester: This tool will diagnose whether or not individual RAM module sticks are faulty or good to use in a computer.
+- RAM Module sticks: The actual computer component in question. A replacement RAM stick will be necessary to replace the faulty RAM stick.
+
 **Replacing a RAM memory module conists of powering off the computer and preparing your workspace along with making sure all power is discharged. Next, open the computer case and push down on the clips at each end of the RAM stick to release the old RAM module. Then after verifying that the new RAM module is compatible and passed the memory tester, push down both ends of the stick until the clips click in place. Finally, close the computer case, power the computer back on, and verify that the new RAM is detected in BIOS.**
 
